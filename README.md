@@ -1,4 +1,4 @@
-# POC Multi-LLM Collaboration
+# POC: Exploring Emergent Intelligence Through Multi-LLM Collaboration 
 
 - Dare to Dream
 - Inspire Bold Leadership
